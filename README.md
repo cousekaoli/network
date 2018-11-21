@@ -6,4 +6,3 @@
 
 ​	管理平台采用图形化方式展示在线工作站和文件分析服务器的状态，宕机时，能实时更新状态。
 
-![1542796486645](C:\Users\kuangnan\AppData\Roaming\Typora\typora-user-images\1542796486645.png)
